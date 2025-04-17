@@ -1,0 +1,5 @@
+name: McboffxMain
+version: '1.0-SNAPSHOT'
+main: com.xmrhapsody.mcboffx.main.bungeecord.BungeePlugin
+author: xmrhapsody
+description: McboffxMain

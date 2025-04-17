@@ -1,0 +1,7 @@
+name: McboffxMain
+version: '1.0-SNAPSHOT'
+main: com.xmrhapsody.mcboffx.main.spigot.SpigotPlugin
+api-version: 1.13
+authors: [xmrhapsody]
+description: McboffxMain
+website: https://github.com/boffx/mcboffxmain 

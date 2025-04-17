@@ -1,0 +1,5 @@
+name: McboffxMain
+version: '${project.version}'
+main: com.xmrhapsody.mcboffx.main.bungeecord.BungeePlugin
+author: xmrhapsody
+description: McboffxMain
