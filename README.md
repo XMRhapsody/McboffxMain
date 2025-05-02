@@ -1,2 +1,2 @@
 # McboffxMain
-2
+基于Spigot和Buggee的核心插件，用于中小型群组服务器的管理
